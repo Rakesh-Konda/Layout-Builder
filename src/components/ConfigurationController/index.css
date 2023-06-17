@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.bg {
+  background-color: #475569;
+  height: 160px;
+}
+.h1 {
+  color: white;
+}
+.mid {
+  display: flex;
+  margin-left: 50px;
+  margin: 10px;
+}
+.o {
+  margin-left: 50px;
+}

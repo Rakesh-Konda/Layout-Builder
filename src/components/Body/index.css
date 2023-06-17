@@ -1,0 +1,41 @@
+/* Write your CSS here */
+.p {
+  margin: 10px;
+}
+.ul {
+  list-style-type: none;
+}
+.t {
+  font-size: 20px;
+}
+.bbg {
+  background-color: #cbd5e1;
+  width: 250px;
+  height: 350px;
+  margin: 10px;
+}
+.bbg1 {
+  background-color: #e2e8f0;
+  width: 250px;
+  max-width: 400px;
+  height: 350px;
+  margin: 10px;
+}
+.hlo {
+  border: 1px solid black;
+  height: 70px;
+  width: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+.mm {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.hi {
+  display: flex;
+}
